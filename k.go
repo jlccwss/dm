@@ -7,7 +7,7 @@ package dm
 
 import (
 	"bytes"
-	"dm/util"
+	"github.com/jlccwss/dm/util"
 	"time"
 )
 

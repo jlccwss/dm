@@ -9,7 +9,7 @@ import (
 	"context"
 	"database/sql"
 	"database/sql/driver"
-	"dm/util"
+	"github.com/jlccwss/dm/util"
 	"fmt"
 	"io"
 	"math/big"

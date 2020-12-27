@@ -5,7 +5,7 @@
 package dm
 
 import (
-	"dm/util"
+	"github.com/jlccwss/dm/util"
 	"math"
 	"strconv"
 	"strings"
